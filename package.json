@@ -1,0 +1,11 @@
+{
+  "name": "record_shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "record.js",
+  "scripts": {
+    "test": "mocha spec"
+  },
+  "author": "",
+  "license": "ISC"
+}
